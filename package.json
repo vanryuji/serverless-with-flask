@@ -9,11 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "serverless": "^2.42.0",
     "serverless-python-requirements": "^5.1.1",
     "serverless-wsgi": "^1.7.7"
-  },
-  "dependencies": {
-    "serverless": "^2.41.1"
   }
 }
